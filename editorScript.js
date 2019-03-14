@@ -52,8 +52,10 @@ module.exports = {
       controllersStageData: {
         myFirstApp: {
           default: {
-            mainAction1: {
-              label: 'Manage My First App'
+            gfpp: {
+              mainAction1: {
+                label: 'Manage My First App'
+              }
             }
           }
         }
